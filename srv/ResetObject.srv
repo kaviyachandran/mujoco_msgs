@@ -1,0 +1,4 @@
+string object_joint_name
+float64 joint_value
+---
+bool status
