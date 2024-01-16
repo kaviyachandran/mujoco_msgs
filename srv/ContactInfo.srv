@@ -1,0 +1,4 @@
+string[] geom_names
+---
+std_msgs/Header header
+mujoco_msgs/ContactState[] contact_states

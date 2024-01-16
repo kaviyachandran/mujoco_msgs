@@ -1,0 +1,2 @@
+geometry_msgs/Point ContactPoint
+geometry_msgs/Vector3 ContactForce
