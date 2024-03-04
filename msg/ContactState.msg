@@ -1,2 +1,3 @@
-geometry_msgs/Point ContactPoint
-geometry_msgs/Vector3 ContactForce
+geometry_msgs/Point contact_point
+string contact_body1
+string contact_body2

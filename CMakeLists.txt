@@ -53,6 +53,7 @@ add_message_files(
   ObjectStateArray.msg
   ObjectStatus.msg
   ContactState.msg
+  ContactInfo.msg
 )
 
 # Generate services in the 'srv' folder
@@ -61,7 +62,6 @@ add_service_files(
   SpawnObject.srv
   DestroyObject.srv
   ResetObject.srv
-  ContactInfo.srv
 )
 
 ## Generate actions in the 'action' folder
